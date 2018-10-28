@@ -1,1 +1,1 @@
-key = 'YOU KEY HERE'
+key = 'YOUR YANDEX API KEY HERE'
